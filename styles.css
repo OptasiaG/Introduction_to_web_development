@@ -1,0 +1,31 @@
+body {
+  background-image: url("backgroundwebimage.jpeg");
+}
+
+/* This is a styling to the h6 tag */
+h6	{
+	text-align: center;
+}
+
+/*
+This is my 
+multiline
+comment
+*/
+h1 {
+		text-align: center;
+}
+
+p {
+	color: white; 
+	text-align: center; 
+	background-color: black; 
+	font-size: 40px;
+}
+
+#second {
+	color: greenyellow;
+}
+.fourth {
+	color: #ff6347;
+}
